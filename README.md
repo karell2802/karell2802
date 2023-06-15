@@ -1,16 +1,28 @@
-### Hi there 👋
+# 👨‍💻 Karell Alfredo Velazquez Gutierrez
 
-<!--
-**karell2802/karell2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Email: velazquez.gutierrez.karell@gmail.com_ | _Github: @karell2802_ | _Ubicación: Chihuahua, Mexico_
 
-Here are some ideas to get you started:
+## 📝 Resumen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollador Backend apasionado con amplia experiencia en el uso de Laravel, Vue.js y Axios. Tengo habilidades en el desarrollo móvil con Kotlin y Flutter, aunque mi enfoque principal es el backend. Además, disfruto configurando servidores en Apache, Ngnix y Caddy, y tengo experiencia con Python.
+
+## 🛠 Habilidades
+
+- 💻 Laravel
+- 💻 Vue.js
+- 🌐 Axios
+- 📱 Kotlin
+- 📱 Flutter
+- 🖧 Configuración de servidores: Apache, Ngnix, Caddy
+- 🤖 Python
+
+## 🏢 Experiencia
+
+## 🎓 Educación
+
+**Ingeneria en Sistemas Computacionales | INSTITUTO TECNOLÓGICO DE CHIHUAHUA II
+
+## 🗣 Idiomas
+
+- 🇪🇸 Español (Nativo)
+- 🇬🇧 Inglés (Basico)
