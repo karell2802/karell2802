@@ -17,6 +17,8 @@ Desarrollador Backend apasionado con amplia experiencia en el uso de Laravel, Vu
 - 📱 Flutter
 - 🖧 Configuración de servidores: Apache, Ngnix, Caddy
 - 🤖 Python
+- 🗄️ MySQL
+- 🗄️ SQLite
 
 
 ## 💻 Conocimientos de Sistemas Operativos
