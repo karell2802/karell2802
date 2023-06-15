@@ -16,6 +16,15 @@ Desarrollador Backend apasionado con amplia experiencia en el uso de Laravel, Vu
 - 🖧 Configuración de servidores: Apache, Ngnix, Caddy
 - 🤖 Python
 
+
+## 💻 Conocimientos de Sistemas Operativos
+
+- MacOS
+- Ubuntu
+- Kali Linux
+- Windows
+- Windows Server
+
 ## 🎓 Educación
 
 Ingeneria en Sistemas Computacionales | INSTITUTO TECNOLÓGICO DE CHIHUAHUA II
