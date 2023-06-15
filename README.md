@@ -10,6 +10,8 @@ Desarrollador Backend apasionado con amplia experiencia en el uso de Laravel, Vu
 
 - 💻 Laravel
 - 💻 Vue.js
+- 💻 PHP
+- 💻 JavaScript
 - 🌐 Axios
 - 📱 Kotlin
 - 📱 Flutter
