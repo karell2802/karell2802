@@ -4,6 +4,15 @@ _Email: velazquez.gutierrez.karell@gmail.com_ | _Github: @karell2802_ | _Ubicaci
 
 ## 📝 Resumen
 
+## 👨🏽‍🔧 Empleos
+- IEECHIHUAHUA
+- Punto Alerta
+- HEMD 
+- TDI 
+- CCSERVICE
+
+
+
 Desarrollador Backend apasionado con amplia experiencia en el uso de Laravel, Vue.js y Axios. Tengo habilidades en el desarrollo móvil con Kotlin y Flutter, aunque mi enfoque principal es el backend. Además, disfruto configurando servidores en Apache, Ngnix y Caddy, y tengo experiencia con Python.
 
 ## 🛠 Habilidades
