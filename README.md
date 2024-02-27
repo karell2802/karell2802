@@ -46,3 +46,8 @@ Ingeneria en Sistemas Computacionales | INSTITUTO TECNOLÓGICO DE CHIHUAHUA II
 
 - 🇪🇸 Español (Nativo)
 - 🇬🇧 Inglés (Basico)
+
+  
+## Extras 
+-Manejo de sistemas RP y Desarrolo de sistemas RP 
+-Manejo de Servicios COMPAQ  y administracion 
