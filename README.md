@@ -8,7 +8,6 @@ _Email: velazquez.gutierrez.karell@gmail.com_ | _Github: @karell2802_ | _Ubicaci
 - IEECHIHUAHUA
 - Punto Alerta
 - HEMD 
-- TDI 
 - CCSERVICE
 
 
