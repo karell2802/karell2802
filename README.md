@@ -1,93 +1,83 @@
-# 👨‍💻 Karell Alfredo Velazquez Gutierrez
+# Karell Alfredo Velazquez Gutierrez
 
-**Email:** velazquez.gutierrez.karell@gmail.com  
-**Github:** [@karell2802](https://github.com/karell2802)  
-**Ubicación:** Chihuahua, México
+[![Email](https://img.shields.io/badge/Email-velazquez.gutierrez.karell%40gmail.com-blue)](mailto:velazquez.gutierrez.karell@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%40karell2802-black)](https://github.com/karell2802)
+[![Location](https://img.shields.io/badge/Location-Chihuahua%2C%20M%C3%A9xico-green)](https://www.google.com/maps/place/Chihuahua)
 
----
+## 💼 Perfil Profesional
 
-## 📝 Resumen
+Desarrollador Backend apasionado con sólida experiencia en desarrollo web, DevOps y creación de soluciones personalizadas. Experto en Laravel y el ecosistema PHP, con conocimientos avanzados en contenedorización y orquestación de servicios. Destaco por mi experiencia en inteligencia artificial aplicada, desarrollo móvil y configuración de infraestructura, enfocándome en diseñar arquitecturas escalables, mantenibles y eficientes.
 
-Desarrollador Backend apasionado, con sólida experiencia en desarrollo web, DevOps, y creación de soluciones personalizadas. Experto en Laravel y el ecosistema PHP, con conocimientos avanzados en contenedorización y orquestación de servicios. Experiencia en inteligencia artificial aplicada, desarrollo móvil y configuración de infraestructura. Enfocado en diseñar arquitecturas escalables, mantenibles y eficientes.
+## 👨🏽‍💻 Experiencia Profesional
 
----
+### TDI
+- Implementación de sistemas de reconocimiento mediante IA para placas vehiculares y reconocimiento facial
+- Desarrollo de microservicios robustos utilizando Python y Flask
+- Diseño e implementación de APIs RESTful para integración con servicios de terceros
+- Desarrollo de aplicaciones móviles orientadas a mejorar la experiencia del usuario final
 
-## 👨🏽‍🔧 Experiencia Laboral
+### IEECHIHUAHUA
+- Arquitectura y desarrollo de aplicaciones web utilizando Laravel y Vue.js
+- Implementación de soluciones de contenedorización con Docker para optimizar entornos de desarrollo y producción
+- Configuración y mantenimiento de pipelines de CI/CD para automatización de despliegues
 
-### **TDI**
-- Desarrollo de aplicaciones web y microservicios en Python con Flask.  
-- Creación de APIs RESTful y consumo de servicios de terceros.  
-- Implementación de una IA para reconocimiento de placas y rostros.  
-- Desarrollo de aplicaciones móviles para usuarios finales.  
+### Punto Alerta
+- Desarrollo Backend robusto utilizando PHP
+- Configuración y optimización de servidores
+- Automatización de procesos de despliegue
 
-### **IEECHIHUAHUA**
-- Desarrollo de aplicaciones web con Laravel y Vue.js.  
-- Implementación de contenedorización con Docker para entornos de desarrollo y producción.  
-- Configuración de pipelines de CI/CD.  
+### HEMD
+- Desarrollo de soluciones web empresariales utilizando Vue.js y Laravel
+- Diseño e implementación de arquitecturas basadas en microservicios
+- Optimización de aplicaciones web para rendimiento multiplataforma
 
-### **Punto Alerta**
-- Desarrollo Backend con PHP.  
-- Configuración de servidores y automatización de despliegues.  
+### CCSERVICE
+- Desarrollo full-stack de soluciones empresariales personalizadas
+- Optimización y gestión avanzada de bases de datos
+- Implementación de mejoras de rendimiento en aplicaciones existentes
 
-### **HEMD**
-- Desarrollo de soluciones web personalizadas en Vue.js y Laravel.  
-- Implementación de arquitecturas de microservicios.  
-- Desarrollo de aplicaciones responsivas y optimizadas para diversas plataformas.  
+## 🛠 Stack Tecnológico
 
-### **CCSERVICE**
-- Desarrollo full-stack para diversas soluciones empresariales.  
-- Gestión y optimización de bases de datos.  
-- Mejora del rendimiento en aplicaciones existentes.  
+### Desarrollo Web
+- **Backend:** PHP (Laravel), Python (Flask)
+- **Frontend:** Vue.js, Next.js, Blazor
+- **Mobile:** Flutter, Kotlin
+- **Herramientas:** Axios, REST APIs
 
----
-
-## 🛠 Habilidades Técnicas
-
-### Backend & Frontend
-- 💻 **Lenguajes y Frameworks:** PHP/Laravel, Vue.js, JavaScript, Python/Flask, Kotlin, Flutter.  
-- 🌐 **Librerías y Herramientas:** Axios.  
-- 🌐 **Frameworks adicionales:** Blazor, Next.js.  
-
-### DevOps & Infraestructura
-- 🐳 **Contenedorización:** Docker y Docker Compose (creación de Dockerfiles, redes, volúmenes).  
-- 🔄 **CI/CD:** GitLab CI, GitHub Actions.  
-- 🖧 **Servidores Web:** Apache, Nginx, Caddy.  
-- 🌐 Kubernetes (nivel básico).  
-- ⚡ Gestión de contenedores y orquestación.  
+### DevOps e Infraestructura
+- **Contenedorización:** Docker, Docker Compose
+- **Orquestación:** Kubernetes (nivel básico)
+- **CI/CD:** GitLab CI, GitHub Actions
+- **Servidores:** Apache, Nginx, Caddy
 
 ### Bases de Datos
-- 🗄️ MySQL, SQLite, SQL, MongoDB.  
+- **SQL:** MySQL, SQLite
+- **NoSQL:** MongoDB
 
 ### Sistemas Operativos
-- MacOS, Ubuntu, Kali Linux, Windows, Windows Server.  
+- **Linux:** Ubuntu, Kali Linux
+- **Others:** MacOS, Windows, Windows Server
 
----
-
-## 🎓 Educación
+## 🎓 Formación Académica
 
 ### Ingeniería en Sistemas Computacionales
-**Instituto Tecnológico de Chihuahua II**
+Instituto Tecnológico de Chihuahua II
+
+## 🌐 Idiomas
+
+- **Español:** Nativo
+- **Inglés:** Básico
+
+## 💡 Proyectos y Logros Destacados
+
+- Desarrollo y administración de sistemas ERP empresariales
+- Implementación de arquitecturas de microservicios escalables
+- Desarrollo de aplicaciones de streaming en tiempo real con Flutter
+- Configuración y mantenimiento de infraestructura en la nube
+- Implementación de soluciones WordPress personalizadas
+- Análisis de seguridad y pruebas de vulnerabilidad en aplicaciones web
+- Configuración y desarrollo de soluciones IoT con Raspberry Pi
+- Optimización de rendimiento en aplicaciones web de alto tráfico
+- Desarrollo de componentes embedidos con Next.js
 
 ---
-
-## 🗣 Idiomas
-- 🇪🇸 **Español:** Nativo.  
-- 🇬🇧 **Inglés:** Básico.  
-
----
-
-## 🔧 Extras
-
-- Desarrollo y administración de sistemas ERP.  
-- Gestión de servicios COMPAQ.  
-- Despliegue de aplicaciones contenerizadas y configuración de entornos Docker.  
-- Optimización de imágenes y persistencia de datos en contenedores.  
-- Desarrollo de aplicaciones de streaming de resultados en Flutter.  
-- Implementación de arquitecturas de microservicios.  
-- Gestión y mantenimiento de servidores para diversas empresas, incluyendo la actualización de Droplets.  
-- Desarrollo y mantenimiento de páginas en WordPress.  
-- Instalación y configuración de Raspberry Pi OS.  
-- Realización de pruebas de vulnerabilidad y explotación en páginas web.  
-- Análisis de fallas en peticiones hacia aplicaciones web.  
-- Desarrollo de aplicaciones móviles completas en Flutter.  
-- Implementación de vistas en Next.js para consumo como iframe.  
