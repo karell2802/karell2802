@@ -26,7 +26,7 @@ Desarrollador Backend apasionado, con sólida experiencia en desarrollo web, Dev
 - Configuración de pipelines de CI/CD.  
 
 ### **Punto Alerta**
-- Desarrollo Backend con Laravel y creación de APIs RESTful.  
+- Desarrollo Backend con PHP.  
 - Configuración de servidores y automatización de despliegues.  
 
 ### **HEMD**
