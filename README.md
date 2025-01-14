@@ -1,77 +1,85 @@
 # 👨‍💻 Karell Alfredo Velazquez Gutierrez
-*Email: velazquez.gutierrez.karell@gmail.com* | *Github: @karell2802* | *Ubicación: Chihuahua, Mexico*
+
+**Email:** velazquez.gutierrez.karell@gmail.com  
+**Github:** [@karell2802](https://github.com/karell2802)  
+**Ubicación:** Chihuahua, México
+
+---
 
 ## 📝 Resumen
-Desarrollador Backend apasionado con sólida experiencia en desarrollo web y DevOps. Especializado en Laravel y ecosistema PHP, con amplios conocimientos en contenedorización y orquestación de servicios. Experiencia en desarrollo móvil y configuración de infraestructura. Enfocado en crear soluciones escalables y mantenibles.
+
+Desarrollador Backend apasionado, con sólida experiencia en desarrollo web, DevOps, y creación de soluciones personalizadas. Experto en Laravel y el ecosistema PHP, con conocimientos avanzados en contenedorización y orquestación de servicios. Experiencia en inteligencia artificial aplicada, desarrollo móvil y configuración de infraestructura. Enfocado en diseñar arquitecturas escalables, mantenibles y eficientes.
+
+---
 
 ## 👨🏽‍🔧 Experiencia Laboral
-### IEECHIHUAHUA
-- Desarrollo de aplicaciones web utilizando Laravel y Vue.js
-- Implementación de contenedorización con Docker para ambientes de desarrollo y producción
-- Configuración de CI/CD pipelines
 
-### Punto Alerta
-- Desarrollo backend con Laravel
-- Integración de APIs RESTful
-- Configuración de servidores y gestión de despliegues
+### **TDI**
+- Desarrollo de aplicaciones web y microservicios en Python con Flask.  
+- Creación de APIs RESTful y consumo de servicios de terceros.  
+- Implementación de una IA para reconocimiento de placas y rostros.  
+- Desarrollo de aplicaciones móviles para usuarios finales.  
 
-### HEMD
-- Desarrollo de soluciones web
-- Implementación de microservicios
-- Mantenimiento de infraestructura
+### **IEECHIHUAHUA**
+- Desarrollo de aplicaciones web con Laravel y Vue.js.  
+- Implementación de contenedorización con Docker para entornos de desarrollo y producción.  
+- Configuración de pipelines de CI/CD.  
 
-### CCSERVICE
-- Desarrollo full-stack
-- Gestión de bases de datos
-- Optimización de rendimiento
+### **Punto Alerta**
+- Desarrollo Backend con Laravel y creación de APIs RESTful.  
+- Configuración de servidores y automatización de despliegues.  
+
+### **HEMD**
+- Desarrollo de soluciones web personalizadas en Vue.js y Laravel.  
+- Implementación de arquitecturas de microservicios.  
+- Desarrollo de aplicaciones responsivas y optimizadas para diversas plataformas.  
+
+### **CCSERVICE**
+- Desarrollo full-stack para diversas soluciones empresariales.  
+- Gestión y optimización de bases de datos.  
+- Mejora del rendimiento en aplicaciones existentes.  
+
+---
 
 ## 🛠 Habilidades Técnicas
+
 ### Backend & Frontend
-- 💻 PHP/Laravel
-- 💻 Vue.js
-- 💻 JavaScript
-- 🌐 Axios
-- 📱 Kotlin
-- 📱 Flutter
-- 🤖 Python
+- 💻 **Lenguajes y Frameworks:** PHP/Laravel, Vue.js, JavaScript, Python/Flask, Kotlin, Flutter.  
+- 🌐 **Librerías y Herramientas:** Axios.  
 
 ### DevOps & Infraestructura
-- 🐳 Docker y Docker Compose
-- 🔄 CI/CD (GitLab CI, GitHub Actions)
-- 🖧 Servidores Web:
-  - Apache
-  - Nginx
-  - Caddy
-- 🌐 Kubernetes (básico)
-- ⚡ Gestión de contenedores y orquestación
+- 🐳 **Contenedorización:** Docker y Docker Compose (creación de Dockerfiles, redes, volúmenes).  
+- 🔄 **CI/CD:** GitLab CI, GitHub Actions.  
+- 🖧 **Servidores Web:** Apache, Nginx, Caddy.  
+- 🌐 Kubernetes (nivel básico).  
+- ⚡ Gestión de contenedores y orquestación.  
 
 ### Bases de Datos
-- 🗄️ MySQL
-- 🗄️ SQLite
-- 🗄️ Redis
+- 🗄️ MySQL, SQLite, SQL, MongoDB.  
 
-## 💻 Sistemas Operativos
-- MacOS
-- Ubuntu
-- Kali Linux
-- Windows
-- Windows Server
+### Sistemas Operativos
+- MacOS, Ubuntu, Kali Linux, Windows, Windows Server.  
+
+---
 
 ## 🎓 Educación
+
 ### Ingeniería en Sistemas Computacionales
-INSTITUTO TECNOLÓGICO DE CHIHUAHUA II
+**Instituto Tecnológico de Chihuahua II**
+
+---
 
 ## 🗣 Idiomas
-- 🇪🇸 Español (Nativo)
-- 🇬🇧 Inglés (Básico)
+- 🇪🇸 **Español:** Nativo.  
+- 🇬🇧 **Inglés:** Básico.  
+
+---
 
 ## 🔧 Extras
-- Desarrollo y administración de sistemas RP
-- Gestión de Servicios COMPAQ
-- Configuración de entornos Docker:
-  - Creación de Dockerfiles personalizados
-  - Gestión de redes Docker
-  - Volúmenes y persistencia de datos
-  - Optimización de imágenes
-- Experiencia en despliegue de aplicaciones contenerizadas
-- Implementación de arquitecturas de microservicios
+
+- Desarrollo y administración de sistemas ERP.  
+- Gestión de servicios COMPAQ.  
+- Despliegue de aplicaciones contenerizadas y configuración de entornos Docker.  
+- Optimización de imágenes y persistencia de datos en contenedores.  
+- Desarrollo de aplicaciones de streaming de resultados en Flutter.  
+- Implementación de arquitecturas de microservicios.  
