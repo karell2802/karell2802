@@ -46,6 +46,7 @@ Desarrollador Backend apasionado, con sólida experiencia en desarrollo web, Dev
 ### Backend & Frontend
 - 💻 **Lenguajes y Frameworks:** PHP/Laravel, Vue.js, JavaScript, Python/Flask, Kotlin, Flutter.  
 - 🌐 **Librerías y Herramientas:** Axios.  
+- 🌐 **Frameworks adicionales:** Blazor, Next.js.  
 
 ### DevOps & Infraestructura
 - 🐳 **Contenedorización:** Docker y Docker Compose (creación de Dockerfiles, redes, volúmenes).  
@@ -83,3 +84,10 @@ Desarrollador Backend apasionado, con sólida experiencia en desarrollo web, Dev
 - Optimización de imágenes y persistencia de datos en contenedores.  
 - Desarrollo de aplicaciones de streaming de resultados en Flutter.  
 - Implementación de arquitecturas de microservicios.  
+- Gestión y mantenimiento de servidores para diversas empresas, incluyendo la actualización de Droplets.  
+- Desarrollo y mantenimiento de páginas en WordPress.  
+- Instalación y configuración de Raspberry Pi OS.  
+- Realización de pruebas de vulnerabilidad y explotación en páginas web.  
+- Análisis de fallas en peticiones hacia aplicaciones web.  
+- Desarrollo de aplicaciones móviles completas en Flutter.  
+- Implementación de vistas en Next.js para consumo como iframe.  
