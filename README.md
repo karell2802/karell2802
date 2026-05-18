@@ -62,11 +62,3 @@ Agencia de desarrollo independiente con más de 15 clientes en sectores industri
 Instituto Tecnológico de Chihuahua 2 — 2015 a 2020
 
 ---
-
-## 📊 GitHub Stats
-
-![Karell's GitHub stats](https://github-readme-stats.vercel.app/api?username=karell2802&show_icons=true&theme=default&hide_border=true)
-
----
-
-*República Code · Chihuahua, México*
