@@ -1,4 +1,4 @@
-# Karell — Full Stack Developer
+# Karell Alfredo Velazquez Gutierrez — Full Stack Developer
 
 > Chihuahua, México
 
