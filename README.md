@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Karell 👋</h1>
+<h1 align="center">Hola, soy Karell Alfredo Velazquez Gutierrez 👋</h1>
 <h3 align="center">Full Stack Developer · Chihuahua, México 🌵</h3>
 
 <p align="center">
